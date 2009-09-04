@@ -1,0 +1,7 @@
+<VirtualHost *:80>
+    DocumentRoot "/opt/local/apache2/htdocs/perl"
+    ServerName perl
+    ErrorLog "logs/perl-error_log"
+    CustomLog "logs/perl-access_log" common
+    ScriptAlias /cgi-bin/ "/opt/local/apache2/htdocs/perl/cgi-bin/"
+</VirtualHost>
