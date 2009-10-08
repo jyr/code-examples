@@ -1327,3 +1327,15 @@ Wed Oct  7 23:40:22 2009 [10124] (debug) mime for /Users/jyr/Desarrollo/git-proj
         text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
 Wed Oct  7 23:40:22 2009 [10124] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/mydancer/public//js/base.js is :
         text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Wed Oct  7 23:57:20 2009 [10184] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/mydancer/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Wed Oct  7 23:57:20 2009 [10184] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/mydancer/public//js/jquery.js is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Wed Oct  7 23:57:20 2009 [10184] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/mydancer/public//js/base.js is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Wed Oct  7 23:57:41 2009 [10184] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/mydancer/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Wed Oct  7 23:57:41 2009 [10184] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/mydancer/public//js/jquery.js is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Wed Oct  7 23:57:41 2009 [10184] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/mydancer/public//js/base.js is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81

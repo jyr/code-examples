@@ -19,11 +19,8 @@ get '/b/quantity/:quantity/orden/:orden' => sub {
 	my ($orden) = params->{orden};
 	
 	$b = controllers::Loadimages->new();	
-	my @images = $b->connect($quantity);
-	#my @names = $b->get_names(@images);
+	$b->connect($quantity);
 	$b->order($orden);
-	#print $code;
-	#template 'b', {code => $code};
 };
 
 true;
