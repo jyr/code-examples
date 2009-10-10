@@ -1,0 +1,9 @@
+<form method="post" action="/cds/add">
+	Artist: <select name="artist_id" id="artist_id">
+				<% FOREACH artists %>
+						<option value="<% id %>"><% name %></option>
+				<% END %>
+			</select>
+	Title: <input name="title" type="text" value="<% content.0.title %>" id="title">
+	<input type="submit" value="continue">
+</form>

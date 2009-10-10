@@ -1,0 +1,17 @@
+<a href="/cds/add">Agregar</a>
+<table>
+	<thead>
+		<th>ID</th><th>ARTIST</th><th>TITLE</th><th>ACTIONS</th>
+	</thead>
+<% FOREACH value IN content %>
+	<tr>
+		<td><% value.id %></td>
+		<td><% value.artist.name %></td>
+		<td><% value.title %></td>
+		<td>
+			<a href="/cds/edit/<% value.id %>">Edit</a>
+			<a href="/cds/delete/<% value.id %>">Delete</a>
+		</td>
+	</tr>
+<% END %>
+</table>

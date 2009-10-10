@@ -1,0 +1,4 @@
+<form method="post" action="/artists/add">
+	Artist:  <input name="name" type="text" id="name">
+	<input type="submit" value="continue">
+</form>

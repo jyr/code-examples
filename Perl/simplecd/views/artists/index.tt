@@ -1,0 +1,16 @@
+<a href="/artists/add">Agregar</a>
+<table>
+	<thead>
+		<th>ID</th><th>ARTIST</th><th>ACTIONS</th>
+	</thead>
+<% FOREACH value IN content %>
+	<tr>
+		<td><% value.id %></td>
+		<td><% value.name %></td>
+		<td>
+			<a href="/artists/edit/<% value.id %>">Edit</a>
+			<a href="/artists/delete/<% value.id %>">Delete</a>
+		</td>
+	</tr>
+<% END %>
+</table>

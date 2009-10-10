@@ -1,0 +1,889 @@
+Thu Oct  8 22:37:58 2009 [18199] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 22:38:06 2009 [18199] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public/404.html is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 35
+Thu Oct  8 22:38:59 2009 [18199] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public/404.html is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 35
+Thu Oct  8 22:39:00 2009 [18199] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public/404.html is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 35
+Thu Oct  8 22:44:19 2009 [18200] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 22:58:19 2009 [18200] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 22:58:20 2009 [18200] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 22:58:26 2009 [18271] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 22:58:28 2009 [18271] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 22:58:29 2009 [18271] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 22:59:06 2009 [18271] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 22:59:11 2009 [18271] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 22:59:12 2009 [18271] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 22:59:12 2009 [18271] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 22:59:12 2009 [18271] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:00:13 2009 [18271] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:00:14 2009 [18271] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:00:14 2009 [18271] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:00:15 2009 [18271] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:00:15 2009 [18271] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:00:28 2009 [18271] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:00:42 2009 [18271] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:04:42 2009 [18271] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:13:22 2009 [18326] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:13:27 2009 [18326] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:14:12 2009 [18326] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:15:09 2009 [18326] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:25:30 2009 [18368] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:25:31 2009 [18368] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:25:36 2009 [18368] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:25:59 2009 [18369] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:26:00 2009 [18369] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:26:41 2009 [18372] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:28:04 2009 [18428] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:32:39 2009 [18454] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:32:51 2009 [18454] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Thu Oct  8 23:32:57 2009 [18454] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 11:04:45 2009 [20660] (warning) "my" variable $artists masks earlier declaration in same scope at simplecd.pm line 17, <DATA> line 16. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Fri Oct  9 11:04:45 2009 [20660] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 11:04:48 2009 [20660] (warning) "my" variable $artists masks earlier declaration in same scope at simplecd.pm line 17, <DATA> line 16. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Fri Oct  9 11:04:48 2009 [20660] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 11:05:33 2009 [20677] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 11:05:39 2009 [20677] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public/404.html is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 35
+Fri Oct  9 11:06:24 2009 [20677] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 11:11:01 2009 [20694] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public/404.html is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 35
+Fri Oct  9 11:11:05 2009 [20694] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 11:12:03 2009 [20695] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 11:12:19 2009 [20696] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 11:12:21 2009 [20696] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 11:12:22 2009 [20696] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 11:12:26 2009 [20696] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 11:12:27 2009 [20696] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 11:12:27 2009 [20696] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 11:13:02 2009 [20697] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 11:14:11 2009 [20699] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 11:16:13 2009 [20702] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 11:16:58 2009 [20718] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 11:16:59 2009 [20718] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 11:18:17 2009 [20720] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 11:18:58 2009 [20721] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 11:24:46 2009 [20741] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 11:24:47 2009 [20741] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 12:55:54 2009 [21068] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:37:35 2009 [21242] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:37:40 2009 [21242] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:39:20 2009 [21242] (warning) Use of uninitialized value in list assignment at simplecd.pm line 35. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Fri Oct  9 13:39:20 2009 [21242] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:42:59 2009 [21264] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:43:04 2009 [21264] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:43:17 2009 [21264] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:43:22 2009 [21264] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:43:33 2009 [21264] (warning) Use of uninitialized value in list assignment at simplecd.pm line 36. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Fri Oct  9 13:43:33 2009 [21264] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:44:09 2009 [21264] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:44:20 2009 [21264] (warning) Use of uninitialized value in list assignment at simplecd.pm line 36. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Fri Oct  9 13:44:20 2009 [21264] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:44:27 2009 [21264] (warning) Use of uninitialized value in list assignment at simplecd.pm line 36. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Fri Oct  9 13:44:27 2009 [21264] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:44:28 2009 [21264] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:44:34 2009 [21269] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:44:35 2009 [21269] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:44:45 2009 [21269] (warning) Use of uninitialized value in list assignment at simplecd.pm line 36. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Fri Oct  9 13:44:45 2009 [21269] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:46:39 2009 [21270] (warning) Use of uninitialized value in list assignment at simplecd.pm line 36. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Fri Oct  9 13:46:39 2009 [21270] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:48:17 2009 [21285] (warning) Use of uninitialized value in list assignment at simplecd.pm line 36. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Fri Oct  9 13:48:17 2009 [21285] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:53:11 2009 [21289] (warning) Use of uninitialized value in list assignment at simplecd.pm line 36. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Fri Oct  9 13:53:11 2009 [21289] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:54:57 2009 [21303] (warning) Use of uninitialized value in list assignment at simplecd.pm line 36. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Fri Oct  9 13:54:57 2009 [21303] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:55:03 2009 [21303] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:55:15 2009 [21303] (warning) Use of uninitialized value in list assignment at simplecd.pm line 36. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Fri Oct  9 13:55:15 2009 [21303] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:55:56 2009 [21305] (warning) Use of uninitialized value in list assignment at simplecd.pm line 36. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Fri Oct  9 13:55:56 2009 [21305] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:56:02 2009 [21305] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:56:12 2009 [21305] (warning) Use of uninitialized value in list assignment at simplecd.pm line 36. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Fri Oct  9 13:56:12 2009 [21305] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:57:19 2009 [21311] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:57:32 2009 [21311] (warning) Use of uninitialized value in list assignment at simplecd.pm line 36. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Fri Oct  9 13:57:32 2009 [21311] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:58:39 2009 [21313] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:58:48 2009 [21313] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:59:50 2009 [21326] (warning) Use of uninitialized value in list assignment at simplecd.pm line 36. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Fri Oct  9 13:59:50 2009 [21326] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 13:59:55 2009 [21326] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 14:00:19 2009 [21326] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 14:00:38 2009 [21328] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 14:00:44 2009 [21328] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 14:03:55 2009 [21334] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 14:06:54 2009 [21349] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 14:10:48 2009 [21354] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 14:21:22 2009 [21371] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 14:22:43 2009 [21393] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 14:22:46 2009 [21393] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 14:23:01 2009 [21393] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 14:23:03 2009 [21393] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 14:26:46 2009 [21414] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 14:32:22 2009 [21536] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 14:35:26 2009 [21543] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 14:47:12 2009 [21586] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 14:47:32 2009 [21586] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 14:47:42 2009 [21586] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 15:16:51 2009 [21720] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 15:16:55 2009 [21720] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 17:41:02 2009 [22227] (warning) Odd number of elements in anonymous hash at simplecd.pm line 18. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Fri Oct  9 17:41:02 2009 [22227] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 17:46:07 2009 [22249] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 17:46:25 2009 [22249] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 17:48:30 2009 [22250] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 17:49:59 2009 [22254] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 18:01:12 2009 [22298] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 18:06:34 2009 [22317] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 18:10:44 2009 [22321] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 18:18:36 2009 [22360] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 18:19:09 2009 [22364] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 18:19:31 2009 [22365] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 18:22:22 2009 [22381] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 18:23:47 2009 [22382] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 18:24:13 2009 [22383] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 18:47:53 2009 [22472] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 18:47:58 2009 [22472] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 18:48:29 2009 [22473] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 18:49:46 2009 [22477] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 18:59:56 2009 [22517] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:00:02 2009 [22517] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:07:51 2009 [22517] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:08:00 2009 [22517] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:08:02 2009 [22517] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:08:03 2009 [22517] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:08:06 2009 [22517] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:08:09 2009 [22517] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:08:11 2009 [22517] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:08:48 2009 [22517] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:08:52 2009 [22517] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:09:29 2009 [22517] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:11:02 2009 [22517] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:13:48 2009 [22563] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:15:17 2009 [22566] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:15:20 2009 [22566] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:15:30 2009 [22566] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:15:33 2009 [22566] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:16:45 2009 [22582] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:16:51 2009 [22582] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:16:59 2009 [22582] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:17:00 2009 [22582] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:17:01 2009 [22582] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:17:03 2009 [22582] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:17:19 2009 [22582] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:17:20 2009 [22582] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:17:21 2009 [22582] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:17:22 2009 [22582] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:17:29 2009 [22583] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:17:32 2009 [22583] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:17:37 2009 [22583] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:17:38 2009 [22583] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:17:39 2009 [22583] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:20:19 2009 [22583] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:20:30 2009 [22583] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:20:32 2009 [22583] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:20:34 2009 [22583] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:20:36 2009 [22583] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:20:39 2009 [22583] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:20:41 2009 [22583] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:34:08 2009 [22684] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:34:54 2009 [22686] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:35:00 2009 [22686] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public/404.html is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 35
+Fri Oct  9 19:35:59 2009 [22688] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:36:43 2009 [22688] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:38:48 2009 [22688] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:38:50 2009 [22688] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:38:53 2009 [22688] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:38:55 2009 [22688] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:39:09 2009 [22688] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:44:38 2009 [22742] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:44:45 2009 [22742] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:44:53 2009 [22742] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 19:45:01 2009 [22742] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 20:53:43 2009 [23027] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 20:53:44 2009 [23027] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 20:53:46 2009 [23027] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 20:54:11 2009 [23027] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 20:54:17 2009 [23045] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 20:54:55 2009 [23045] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 20:55:00 2009 [23046] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 20:55:01 2009 [23046] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 20:56:29 2009 [23047] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 20:57:08 2009 [23051] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 20:57:40 2009 [23052] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 20:57:42 2009 [23052] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 20:57:43 2009 [23052] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 20:58:32 2009 [23054] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:02:32 2009 [23080] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:02:51 2009 [23081] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:03:11 2009 [23085] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:03:15 2009 [23085] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:03:17 2009 [23085] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:05:04 2009 [23087] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:05:05 2009 [23087] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:05:08 2009 [23087] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:05:09 2009 [23087] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:05:50 2009 [23088] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:05:50 2009 [23088] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:05:52 2009 [23088] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:05:53 2009 [23088] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:05:57 2009 [23088] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:05:58 2009 [23088] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:06:36 2009 [23104] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:06:57 2009 [23105] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:07:35 2009 [23105] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:07:37 2009 [23105] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:07:59 2009 [23106] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:08:45 2009 [23107] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:10:02 2009 [23114] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:11:27 2009 [23117] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:12:36 2009 [23133] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:13:58 2009 [23134] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:15:00 2009 [23140] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:15:01 2009 [23140] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:16:15 2009 [23141] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:20:06 2009 [23158] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:20:07 2009 [23158] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:20:11 2009 [23158] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:20:48 2009 [23158] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:21:30 2009 [23162] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:21:50 2009 [23163] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:21:52 2009 [23163] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:21:53 2009 [23163] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:22:03 2009 [23207] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:23:19 2009 [23207] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:23:39 2009 [23209] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:25:07 2009 [23229] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:25:12 2009 [23229] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:25:34 2009 [23230] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:25:35 2009 [23230] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:26:00 2009 [23231] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:26:58 2009 [23233] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:26:59 2009 [23233] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:27:07 2009 [23233] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:27:25 2009 [23270] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:27:26 2009 [23270] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:27:27 2009 [23270] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:27:28 2009 [23270] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:29:21 2009 [23274] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:29:42 2009 [23275] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:42:43 2009 [23324] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:42:44 2009 [23324] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:42:46 2009 [23324] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:43:28 2009 [23325] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:47:27 2009 [23348] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public/404.html is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 35
+Fri Oct  9 21:47:36 2009 [23348] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:49:20 2009 [23352] (warning) Useless use of hash element in void context at simplecd.pm line 39, <DATA> line 16. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Fri Oct  9 21:49:20 2009 [23352] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:50:27 2009 [23353] (warning) Useless use of anonymous list ([]) in void context at simplecd.pm line 39, <DATA> line 16. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Fri Oct  9 21:50:27 2009 [23353] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:50:48 2009 [23354] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:51:39 2009 [23370] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public/404.html is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 35
+Fri Oct  9 21:51:43 2009 [23370] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:51:51 2009 [23370] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:51:53 2009 [23370] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:52:06 2009 [23370] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:52:54 2009 [23371] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:52:55 2009 [23371] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:52:57 2009 [23371] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:53:07 2009 [23371] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:54:18 2009 [23376] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:54:30 2009 [23376] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:56:00 2009 [23379] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:56:01 2009 [23379] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:56:12 2009 [23379] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:56:18 2009 [23379] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:56:27 2009 [23379] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:57:20 2009 [23380] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:57:21 2009 [23380] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:57:22 2009 [23380] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:57:26 2009 [23380] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 21:59:42 2009 [23399] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 23:29:09 2009 [23713] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 23:29:11 2009 [23713] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 23:29:58 2009 [23715] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 23:37:30 2009 [23744] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 23:43:09 2009 [23766] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 23:43:24 2009 [23766] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 23:43:30 2009 [23766] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 23:43:37 2009 [23766] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 23:43:44 2009 [23766] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 23:48:54 2009 [23787] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 23:48:56 2009 [23787] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 23:49:02 2009 [23787] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 23:49:05 2009 [23787] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 23:49:15 2009 [23787] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 23:50:14 2009 [23788] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 23:50:18 2009 [23788] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 23:50:28 2009 [23788] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 23:50:38 2009 [23788] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 23:50:42 2009 [23788] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 23:53:38 2009 [23807] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Fri Oct  9 23:59:31 2009 [23807] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:00:36 2009 [23836] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:00:37 2009 [23836] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:00:41 2009 [23836] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:01:28 2009 [23837] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:01:57 2009 [23838] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:02:54 2009 [23839] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:02:58 2009 [23839] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:03:17 2009 [23839] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:03:22 2009 [23839] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:03:36 2009 [23839] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:12:24 2009 [23881] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:12:32 2009 [23881] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:13:24 2009 [23882] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:13:52 2009 [23882] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:13:54 2009 [23882] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:15:50 2009 [23900] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:15:56 2009 [23900] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:15:59 2009 [23900] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:16:00 2009 [23900] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:16:14 2009 [23900] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:16:19 2009 [23900] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:16:30 2009 [23900] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:16:41 2009 [23900] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:16:54 2009 [23900] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:16:57 2009 [23900] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 00:17:05 2009 [23900] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:06:20 2009 [24914] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:06:48 2009 [24914] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:07:04 2009 [24914] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:07:14 2009 [24914] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:12:14 2009 [24938] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:12:16 2009 [24938] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:12:19 2009 [24938] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:12:25 2009 [24938] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:12:31 2009 [24938] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:12:39 2009 [24938] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:12:46 2009 [24938] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:12:53 2009 [24938] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:13:01 2009 [24938] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:15:38 2009 [24959] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:15:40 2009 [24959] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:15:51 2009 [24959] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:16:00 2009 [24959] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:16:03 2009 [24959] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:16:04 2009 [24959] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:21:45 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:21:48 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:21:49 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:21:51 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:22:01 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:22:08 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:22:15 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:22:18 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:22:21 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:22:29 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:22:36 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:22:44 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:22:49 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:22:54 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:22:56 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:23:07 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:23:09 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:23:12 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:23:15 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:23:22 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:23:26 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:23:34 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:23:36 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:23:42 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:23:44 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:23:49 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:23:51 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:23:52 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:24:00 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:24:02 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:24:04 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:24:07 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:24:08 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:24:14 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:24:17 2009 [24970] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:25:05 2009 [24991] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:25:05 2009 [24991] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:25:55 2009 [24992] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:26:03 2009 [24992] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:26:07 2009 [24992] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:26:15 2009 [24992] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:26:18 2009 [24992] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:26:34 2009 [24992] (warning) Use of uninitialized value in list assignment at simplecd.pm line 64. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Sat Oct 10 13:26:34 2009 [24992] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:28:03 2009 [25008] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:28:13 2009 [25008] (warning) Use of uninitialized value in list assignment at simplecd.pm line 64. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Sat Oct 10 13:28:13 2009 [25008] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:30:21 2009 [25013] (warning) Use of uninitialized value in list assignment at simplecd.pm line 64. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Sat Oct 10 13:30:21 2009 [25013] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:31:08 2009 [25014] (warning) Use of uninitialized value in list assignment at simplecd.pm line 64. in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 74
+Sat Oct 10 13:31:46 2009 [25016] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/error.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:40:19 2009 [25080] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:40:28 2009 [25080] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:40:31 2009 [25080] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:40:38 2009 [25080] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:40:45 2009 [25080] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:40:48 2009 [25080] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:40:58 2009 [25080] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:41:02 2009 [25080] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:41:07 2009 [25080] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:41:09 2009 [25080] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:41:29 2009 [25080] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:48:24 2009 [25116] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:48:27 2009 [25116] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:48:30 2009 [25116] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:48:33 2009 [25116] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:48:35 2009 [25116] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:49:04 2009 [25116] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:49:10 2009 [25116] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:49:17 2009 [25116] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:49:18 2009 [25116] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:49:20 2009 [25116] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:49:30 2009 [25116] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:49:34 2009 [25116] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:51:26 2009 [25120] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:51:29 2009 [25120] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:51:32 2009 [25120] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:51:37 2009 [25120] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:51:44 2009 [25120] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:51:46 2009 [25120] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:51:50 2009 [25120] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:51:51 2009 [25120] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:52:04 2009 [25120] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:52:07 2009 [25120] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:52:09 2009 [25120] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:52:19 2009 [25120] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:52:23 2009 [25120] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:52:34 2009 [25120] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:52:40 2009 [25120] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:52:45 2009 [25120] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:52:48 2009 [25120] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81
+Sat Oct 10 13:52:50 2009 [25120] (debug) mime for /Users/jyr/Desarrollo/git-projects/code-examples/Perl/simplecd/public//css/style.css is :
+        text/plain in /opt/local/lib/perl5/site_perl/5.8.9/Dancer/Renderer.pm l. 81

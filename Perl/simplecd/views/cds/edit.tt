@@ -1,0 +1,14 @@
+<form method="post" action="/cds/edit">
+	<input type="hidden" name="id" value="<% content.0.id %>">
+	Artist: <select name="artist_id" id="artist_id">
+				<% FOREACH artists %>
+					<% IF content.0.artist.id == id %>
+						<option value="<% id %>" selected><% name %></option>
+					<% ELSE %>
+						<option value="<% id %>"><% name %></option>
+					<% END %>
+				<% END %>
+			</select>
+	Title: <input name="title" type="text" value="<% content.0.title %>" id="title">
+	<input type="submit" value="continue">
+</form>

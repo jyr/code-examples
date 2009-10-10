@@ -1,0 +1,5 @@
+<form method="post" action="/artists/edit">
+	<input type="hidden" name="id" value="<% content.0.id %>">
+	Artist: <input name="name" type="text" value="<% content.0.name %>" id="name">
+	<input type="submit" value="continue">
+</form>

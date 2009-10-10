@@ -1,0 +1,14 @@
+<form method="post" action="/tracks/edit">
+	<input type="hidden" name="id" value="<% content.0.id %>">
+	Cd: <select name="cd_id" id="cd_id">
+				<% FOREACH cds %>
+					<% IF content.0.cd.id == id %>
+						<option value="<% id %>" selected><% title %></option>
+					<% ELSE %>
+						<option value="<% id %>"><% title %></option>
+					<% END %>
+				<% END %>
+			</select>
+	Title: <input name="title" type="text" value="<% content.0.title %>" id="title">
+	<input type="submit" value="continue">
+</form>
