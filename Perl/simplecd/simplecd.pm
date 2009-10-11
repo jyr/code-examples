@@ -7,17 +7,10 @@ use Controllers::Artists;
 use Controllers::Cds;
 use Controllers::Tracks;
 
-use Models::Artists;
-use Models::Cds;
-use Models::Tracks;
-
 our $artists = Controllers::Artists->new();
 our $cds = Controllers::Cds->new();
 our $tracks = Controllers::Tracks->new();
 
-our $artist = Models::Artists->new();
-our $cd = Models::Cds->new();
-our $track = Models::Tracks->new();
 
 get '/' => sub {
     template 'index';
@@ -75,7 +68,7 @@ post '/cds/edit' => sub{
 };
 
 get '/cds/delete/:id' => sub {	
-	$cd->delete(params->{id});
+	$cds->delete(params->{id});
 };
 
 get '/tracks' => sub {
