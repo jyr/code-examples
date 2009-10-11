@@ -3,9 +3,17 @@ use Dancer;
 use Template;
 use Data::Dumper;
 
+use Controllers::Artists;
+use Controllers::Cds;
+use Controllers::Tracks;
+
 use Models::Artists;
 use Models::Cds;
 use Models::Tracks;
+
+our $artists = Controllers::Artists->new();
+our $cds = Controllers::Cds->new();
+our $tracks = Controllers::Tracks->new();
 
 our $artist = Models::Artists->new();
 our $cd = Models::Cds->new();
@@ -16,8 +24,8 @@ get '/' => sub {
 };
 
 get '/artists' => sub {
-	my @list = $artist->get_artists();
-	template "artists/index", {content => \@list};
+	my @data = $artists->index();
+	template "artists/index", {content => \@data};
 };
 
 get '/artists/add' => sub {
@@ -25,104 +33,75 @@ get '/artists/add' => sub {
 };
 
 post '/artists/add' => sub {
-	my $data = ([params->{name}]);
-	$artist->add($data);
+	$artists->add(([params->{name}]));
 };
 
 get '/artists/edit/:id' => sub{
-	my $artist_id = params->{id};
-	my @data = $artist->get_artist($artist_id);
-
+	my @data = $artists->edit(params->{id}, undef);
 	template 'artists/edit',{content => \@data};
 };
 
 post '/artists/edit' => sub {
-	my $artist_id = params->{id};
-	my $name = params->{name};
-	
-	$artist->edit($artist_id, $name);
+	$artists->edit(params->{id}, params->{name});
 };
 
 get '/artists/delete/:id' => sub {
-	my $artist_id = params->{id};
-	
-	$artist->delete($artist_id);
+	$artists->delete(params->{id});
 };
 
+
 get '/cds' => sub {
-	my @list = $cd->get_cds();
-	template "cds/index",{content => \@list};
+	my @data = $cds->index();
+	template "cds/index",{content => \@data};
 };
 
 get '/cds/add' => sub {
-	my @artists = $artist->get_artists();
+	my @data = $cds->add(undef, undef);
 	
-	template "cds/add", {artists => \@artists};
+	template "cds/add", {artists => \@data};
 };
 
 post '/cds/add' => sub{
-	my %data = (params->{artist_id} => params->{title});
-
-	$cd->add(%data);
+	$cds->add(params->{artist_id}, params->{title});
 };
 
 get '/cds/edit/:id' => sub{
-	my $cd_id = params->{id};
-	my @data = $cd->get_cd($cd_id);
-	my @artists = $artist->get_artists();
-
-	template 'cds/edit',{content => \@data, artists => \@artists};
+	my @data = $cds->edit(params->{id}, undef);
+	template 'cds/edit',{content => $data[0], artists => $data[1]};
 };
 
 post '/cds/edit' => sub{
-	my $cd_id = params->{id};
-	my $artist_id = params->{artist_id};
-	my $title = params->{title};
-	
-	$cd->edit($cd_id, $artist_id, $title);
+	$cds->edit(params->{id}, params->{artist_id}, params->{title});
 };
 
-get '/cds/delete/:id' => sub {
-	my $cd_id = params->{id};
-	
-	$cd->delete($cd_id);
+get '/cds/delete/:id' => sub {	
+	$cd->delete(params->{id});
 };
 
 get '/tracks' => sub {
-	my @list = $track->get_tracks();
-	template "tracks/index",{content => \@list};
+	my @data = $tracks->index();
+	template "tracks/index",{content => \@data};
 };
 
 get '/tracks/add' => sub{
-	my @cds = $cd->get_cds();
-	
-	template "tracks/add", {cds => \@cds};
+	my @data = $tracks->add(undef, undef);
+	template "tracks/add", {cds => \@data};
 };
 
 post '/tracks/add' => sub {
-	my %data = (params->{cd_id} => params->{title});
-	$track->add(%data);
+	$tracks->add(params->{cd_id}, params->{title});
 };
 
 get '/tracks/edit/:id' => sub{
-	my $track_id = params->{id};
-	my @data = $track->get_track($track_id);
-	my @cds = $cd->get_cds();
-
-	template 'tracks/edit',{content => \@data, cds => \@cds};
+	my @data = $tracks->edit(params->{id}, undef);
+	template 'tracks/edit',{content => $data[0], cds => $data[1]};
 };
 
 post '/tracks/edit' => sub{
-	my $track_id = params->{id};
-	my $cd_id = params->{cd_id};
-	my $title = params->{title};
-	
-	$track->edit($track_id, $cd_id, $title);
+	$tracks->edit(params->{id}, params->{cd_id}, params->{title});
 };
 
 get '/tracks/delete/:id' => sub {
-	my $track_id = params->{id};
-	
-	$track->delete($track_id);
+	$tracks->delete(params->{id});
 };
 true;
