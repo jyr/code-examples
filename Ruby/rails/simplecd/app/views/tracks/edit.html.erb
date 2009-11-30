@@ -1,0 +1,20 @@
+<h1>Editing track</h1>
+
+<% form_for(@track) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :cd %><br />
+	<%= select("track", "cd_id", Cd.find(:all).collect {|p| [ p.title, p.id ] }, {:include_blank => "Seleccione el cd"}) %>
+  </p>
+  <p>
+    <%= f.label :title %><br />
+    <%= f.text_field :title %>
+  </p>
+  <p>
+    <%= f.submit 'Update' %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @track %> |
+<%= link_to 'Back', tracks_path %>

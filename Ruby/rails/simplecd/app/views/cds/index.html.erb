@@ -1,0 +1,22 @@
+<h1>Listing cds</h1>
+
+<table>
+  <tr>
+    <th>Artist</th>
+    <th>Title</th>
+  </tr>
+
+<% @cds.each do |cd| %>
+  <tr>
+    <td><%=h cd.artist.name %></td>
+    <td><%=h cd.title %></td>
+    <td><%= link_to 'Show', cd %></td>
+    <td><%= link_to 'Edit', edit_cd_path(cd) %></td>
+    <td><%= link_to 'Destroy', cd, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New cd', new_cd_path %>

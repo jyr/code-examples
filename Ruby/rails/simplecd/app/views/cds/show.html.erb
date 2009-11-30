@@ -1,0 +1,13 @@
+<p>
+  <b>Artist:</b>
+  <%=h @cd.artist.name %>
+</p>
+
+<p>
+  <b>Title:</b>
+  <%=h @cd.title %>
+</p>
+
+
+<%= link_to 'Edit', edit_cd_path(@cd) %> |
+<%= link_to 'Back', cds_path %>
