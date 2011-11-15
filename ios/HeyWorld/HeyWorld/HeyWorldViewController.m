@@ -83,6 +83,7 @@
 - (BOOL)textFieldShouldReturn:(UITextField *)theTextField{
     if (theTextField == self.textField) {
         [theTextField resignFirstResponder];
+        self.label.hidden = NO;
     }
     
     return YES;
