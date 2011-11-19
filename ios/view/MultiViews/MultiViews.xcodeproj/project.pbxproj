@@ -1,0 +1,323 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4E5E1C8F14772896005D928E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E5E1C8E14772896005D928E /* UIKit.framework */; };
+		4E5E1C9114772896005D928E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E5E1C9014772896005D928E /* Foundation.framework */; };
+		4E5E1C9314772896005D928E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E5E1C9214772896005D928E /* CoreGraphics.framework */; };
+		4E5E1C9914772896005D928E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4E5E1C9714772896005D928E /* InfoPlist.strings */; };
+		4E5E1C9B14772896005D928E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E5E1C9A14772896005D928E /* main.m */; };
+		4E5E1C9F14772896005D928E /* MultiViewsAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E5E1C9E14772896005D928E /* MultiViewsAppDelegate.m */; };
+		4E5E1CA214772896005D928E /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E5E1CA014772896005D928E /* MainStoryboard.storyboard */; };
+		4E5E1CA514772896005D928E /* MultiViewsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E5E1CA414772896005D928E /* MultiViewsViewController.m */; };
+		4E5E1CB014772E89005D928E /* baracktocat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4E5E1CAC14772E89005D928E /* baracktocat.jpg */; };
+		4E5E1CB114772E89005D928E /* drupalcat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4E5E1CAD14772E89005D928E /* drupalcat.jpg */; };
+		4E5E1CB214772E89005D928E /* octocat-de-los-muertos.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4E5E1CAE14772E89005D928E /* octocat-de-los-muertos.jpg */; };
+		4E5E1CB314772E89005D928E /* pythocat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4E5E1CAF14772E89005D928E /* pythocat.jpg */; };
+		4E5E1CBA14773A4D005D928E /* Page2.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E5E1CB914773A4D005D928E /* Page2.m */; };
+		4E5E1CBD14773A64005D928E /* Page3.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E5E1CBC14773A64005D928E /* Page3.m */; };
+		4E5E1CC014773A76005D928E /* Page4.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E5E1CBF14773A76005D928E /* Page4.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4E5E1C8A14772896005D928E /* MultiViews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MultiViews.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4E5E1C8E14772896005D928E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		4E5E1C9014772896005D928E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		4E5E1C9214772896005D928E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		4E5E1C9614772896005D928E /* MultiViews-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MultiViews-Info.plist"; sourceTree = "<group>"; };
+		4E5E1C9814772896005D928E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		4E5E1C9A14772896005D928E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		4E5E1C9C14772896005D928E /* MultiViews-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MultiViews-Prefix.pch"; sourceTree = "<group>"; };
+		4E5E1C9D14772896005D928E /* MultiViewsAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MultiViewsAppDelegate.h; sourceTree = "<group>"; };
+		4E5E1C9E14772896005D928E /* MultiViewsAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MultiViewsAppDelegate.m; sourceTree = "<group>"; };
+		4E5E1CA114772896005D928E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		4E5E1CA314772896005D928E /* MultiViewsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MultiViewsViewController.h; sourceTree = "<group>"; };
+		4E5E1CA414772896005D928E /* MultiViewsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MultiViewsViewController.m; sourceTree = "<group>"; };
+		4E5E1CAC14772E89005D928E /* baracktocat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = baracktocat.jpg; sourceTree = "<group>"; };
+		4E5E1CAD14772E89005D928E /* drupalcat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = drupalcat.jpg; sourceTree = "<group>"; };
+		4E5E1CAE14772E89005D928E /* octocat-de-los-muertos.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "octocat-de-los-muertos.jpg"; sourceTree = "<group>"; };
+		4E5E1CAF14772E89005D928E /* pythocat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pythocat.jpg; sourceTree = "<group>"; };
+		4E5E1CB814773A4D005D928E /* Page2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Page2.h; sourceTree = "<group>"; };
+		4E5E1CB914773A4D005D928E /* Page2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Page2.m; sourceTree = "<group>"; };
+		4E5E1CBB14773A64005D928E /* Page3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Page3.h; sourceTree = "<group>"; };
+		4E5E1CBC14773A64005D928E /* Page3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Page3.m; sourceTree = "<group>"; };
+		4E5E1CBE14773A76005D928E /* Page4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Page4.h; sourceTree = "<group>"; };
+		4E5E1CBF14773A76005D928E /* Page4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Page4.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4E5E1C8714772896005D928E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4E5E1C8F14772896005D928E /* UIKit.framework in Frameworks */,
+				4E5E1C9114772896005D928E /* Foundation.framework in Frameworks */,
+				4E5E1C9314772896005D928E /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4E5E1C7F14772896005D928E = {
+			isa = PBXGroup;
+			children = (
+				4E5E1C9414772896005D928E /* MultiViews */,
+				4E5E1C8D14772896005D928E /* Frameworks */,
+				4E5E1C8B14772896005D928E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4E5E1C8B14772896005D928E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4E5E1C8A14772896005D928E /* MultiViews.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4E5E1C8D14772896005D928E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				4E5E1C8E14772896005D928E /* UIKit.framework */,
+				4E5E1C9014772896005D928E /* Foundation.framework */,
+				4E5E1C9214772896005D928E /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		4E5E1C9414772896005D928E /* MultiViews */ = {
+			isa = PBXGroup;
+			children = (
+				4E5E1CAB14772E41005D928E /* images */,
+				4E5E1C9D14772896005D928E /* MultiViewsAppDelegate.h */,
+				4E5E1C9E14772896005D928E /* MultiViewsAppDelegate.m */,
+				4E5E1CA014772896005D928E /* MainStoryboard.storyboard */,
+				4E5E1CA314772896005D928E /* MultiViewsViewController.h */,
+				4E5E1CA414772896005D928E /* MultiViewsViewController.m */,
+				4E5E1C9514772896005D928E /* Supporting Files */,
+				4E5E1CB814773A4D005D928E /* Page2.h */,
+				4E5E1CB914773A4D005D928E /* Page2.m */,
+				4E5E1CBB14773A64005D928E /* Page3.h */,
+				4E5E1CBC14773A64005D928E /* Page3.m */,
+				4E5E1CBE14773A76005D928E /* Page4.h */,
+				4E5E1CBF14773A76005D928E /* Page4.m */,
+			);
+			path = MultiViews;
+			sourceTree = "<group>";
+		};
+		4E5E1C9514772896005D928E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				4E5E1C9614772896005D928E /* MultiViews-Info.plist */,
+				4E5E1C9714772896005D928E /* InfoPlist.strings */,
+				4E5E1C9A14772896005D928E /* main.m */,
+				4E5E1C9C14772896005D928E /* MultiViews-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		4E5E1CAB14772E41005D928E /* images */ = {
+			isa = PBXGroup;
+			children = (
+				4E5E1CAC14772E89005D928E /* baracktocat.jpg */,
+				4E5E1CAD14772E89005D928E /* drupalcat.jpg */,
+				4E5E1CAE14772E89005D928E /* octocat-de-los-muertos.jpg */,
+				4E5E1CAF14772E89005D928E /* pythocat.jpg */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4E5E1C8914772896005D928E /* MultiViews */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4E5E1CA814772896005D928E /* Build configuration list for PBXNativeTarget "MultiViews" */;
+			buildPhases = (
+				4E5E1C8614772896005D928E /* Sources */,
+				4E5E1C8714772896005D928E /* Frameworks */,
+				4E5E1C8814772896005D928E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MultiViews;
+			productName = MultiViews;
+			productReference = 4E5E1C8A14772896005D928E /* MultiViews.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4E5E1C8114772896005D928E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 4E5E1C8414772896005D928E /* Build configuration list for PBXProject "MultiViews" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 4E5E1C7F14772896005D928E;
+			productRefGroup = 4E5E1C8B14772896005D928E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4E5E1C8914772896005D928E /* MultiViews */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4E5E1C8814772896005D928E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4E5E1C9914772896005D928E /* InfoPlist.strings in Resources */,
+				4E5E1CA214772896005D928E /* MainStoryboard.storyboard in Resources */,
+				4E5E1CB014772E89005D928E /* baracktocat.jpg in Resources */,
+				4E5E1CB114772E89005D928E /* drupalcat.jpg in Resources */,
+				4E5E1CB214772E89005D928E /* octocat-de-los-muertos.jpg in Resources */,
+				4E5E1CB314772E89005D928E /* pythocat.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4E5E1C8614772896005D928E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4E5E1C9B14772896005D928E /* main.m in Sources */,
+				4E5E1C9F14772896005D928E /* MultiViewsAppDelegate.m in Sources */,
+				4E5E1CA514772896005D928E /* MultiViewsViewController.m in Sources */,
+				4E5E1CBA14773A4D005D928E /* Page2.m in Sources */,
+				4E5E1CBD14773A64005D928E /* Page3.m in Sources */,
+				4E5E1CC014773A76005D928E /* Page4.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		4E5E1C9714772896005D928E /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4E5E1C9814772896005D928E /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		4E5E1CA014772896005D928E /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4E5E1CA114772896005D928E /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4E5E1CA614772896005D928E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		4E5E1CA714772896005D928E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4E5E1CA914772896005D928E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MultiViews/MultiViews-Prefix.pch";
+				INFOPLIST_FILE = "MultiViews/MultiViews-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		4E5E1CAA14772896005D928E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MultiViews/MultiViews-Prefix.pch";
+				INFOPLIST_FILE = "MultiViews/MultiViews-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4E5E1C8414772896005D928E /* Build configuration list for PBXProject "MultiViews" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4E5E1CA614772896005D928E /* Debug */,
+				4E5E1CA714772896005D928E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4E5E1CA814772896005D928E /* Build configuration list for PBXNativeTarget "MultiViews" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4E5E1CA914772896005D928E /* Debug */,
+				4E5E1CAA14772896005D928E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4E5E1C8114772896005D928E /* Project object */;
+}
